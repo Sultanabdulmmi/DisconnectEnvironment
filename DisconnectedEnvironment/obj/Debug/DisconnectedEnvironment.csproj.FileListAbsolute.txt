@@ -1,0 +1,11 @@
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe.config
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.pdb
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.AssemblyReference.cache
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.SuggestedBindingRedirects.cache
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form1.resources
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Properties.Resources.resources
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.GenerateResource.cache
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.exe
+C:\Users\sulta\source\repos\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.pdb
